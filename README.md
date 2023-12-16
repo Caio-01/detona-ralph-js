@@ -2,7 +2,7 @@
  
  Jogo feito pelo desafio proposto no Bootcamp Potência Tech Ifood - Desenvolvimento de Jogos da [DIO](https://www.dio.me/)! 
 
-## Tecnologia Utilizadas 👨🏾‍💻
+## Tecnologias Utilizadas 👨🏾‍💻
 
 - HTML5 e CSS3 para estrutura e aparência do jogo.
 - JavaScript para lógica de programação e interatividade.
